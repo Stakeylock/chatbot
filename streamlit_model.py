@@ -786,8 +786,81 @@ faq_data = [
                     {
                         "question": "What is the process for changing exam subject choices during registration?",
                         "answer": "Subject changes during exam registration can only be done during the specified correction window. Submit a request through your college within the deadline."
-                    }
-                     
+                    },
+  {
+    "question": "How is campus life at JNTUH?",
+    "answer": "Campus life at JNTUH is vibrant, with various extracurricular activities, student clubs, and events. The campus provides a great environment for academic learning as well as personal development. Students can engage in sports, cultural festivals, technical events, and workshops, ensuring a balanced college experience."
+  },
+  {
+    "question": "What is the hostel fee structure at JNTUH?",
+    "answer": "The hostel fee structure at JNTUH varies depending on the type of accommodation. The fee includes room rent, food, and other basic amenities. The approximate fee for a hostel room can range from INR 15,000 to INR 30,000 per semester. Students are advised to check the official JNTUH website or contact the hostel office for the most up-to-date information."
+  },
+  {
+    "question": "How can I access the online portals at JNTUH?",
+    "answer": "JNTUH provides several online portals for students, including the student portal for academic information, the exam portal for exam schedules and results, and the library portal for accessing academic resources. You can log into these portals using your student credentials provided during enrollment. Make sure to keep your login information secure."
+  },
+  {
+    "question": "What online services are available for students at JNTUH?",
+    "answer": "JNTUH offers various online services for students, such as the online exam portal, digital library access, fee payment portal, and the student grievance portal. Students can also apply for scholarships, check their results, and participate in the course registration process through these online services."
+  },
+  {
+    "question": "What are the career opportunities after completing a degree at JNTUH?",
+    "answer": "JNTUH has a strong placement record with companies from various industries including software, hardware, manufacturing, and consulting firms. The university's placement cell conducts placement drives, internships, and career development programs. Graduates have found opportunities in both national and international companies in diverse fields."
+  },
+  {
+    "question": "Can I access my exam results online at JNTUH?",
+    "answer": "Yes, you can access your exam results online through the official JNTUH exam portal. You will need your student credentials to log in and view your grades and other exam-related information. Results are usually announced a few weeks after the completion of exams."
+  },
+  {
+    "question": "Are there any scholarships available at JNTUH?",
+    "answer": "Yes, JNTUH offers various scholarships for deserving students, including merit-based scholarships, financial assistance for economically disadvantaged students, and government-funded scholarships like the Post Matric Scholarship (PMS). Students can apply for these scholarships through the official portal or through their respective departments."
+  },
+  {
+    "question": "What sports facilities are available at JNTUH?",
+    "answer": "JNTUH has sports facilities that include a cricket ground, football field, basketball courts, volleyball courts, and indoor sports facilities. The university organizes inter-college sports competitions and encourages students to participate in various sporting events."
+  },
+  {
+    "question": "What is the process for hostel allotment at JNTUH?",
+    "answer": "Hostel allotment at JNTUH is usually done based on merit, availability, and special categories like sports or disability. The application for hostel accommodation is typically submitted online, and students are informed about the allotment through email or the hostel office."
+  },
+  {
+    "question": "How can I get my documents verified at JNTUH?",
+    "answer": "Document verification at JNTUH is usually required during admission or when applying for revaluation, scholarships, or other administrative processes. Students can visit the respective departments or the administration office for document verification, and they must provide all required original documents along with photocopies."
+  },
+  {
+    "question": "Is there a library facility at JNTUH?",
+    "answer": "Yes, JNTUH has a well-equipped central library and departmental libraries offering a wide range of books, journals, and digital resources. The library is open during weekdays, and students can also access online research papers and e-books through the digital library portal."
+  },
+  {
+    "question": "Can I get access to the internet on campus?",
+    "answer": "Yes, JNTUH provides internet access to students on campus. There is Wi-Fi availability in various parts of the campus, including hostels, academic blocks, and libraries. Students can access the internet through their university credentials after registration."
+  },
+  {
+    "question": "How are the accommodations for students with disabilities at JNTUH?",
+    "answer": "JNTUH is committed to providing a supportive environment for students with disabilities. The campus is equipped with ramps, accessible washrooms, and other facilities for students with physical disabilities. Additionally, there are special provisions for academic support and accommodation in exams for these students."
+  },
+  {
+    "question": "What are the transportation facilities available at JNTUH?",
+    "answer": "JNTUH offers transportation services for students, including buses that connect the campus to different parts of the city and nearby areas. Students can avail of these bus services for commuting to and from the university. The university also provides transportation services for hostels and nearby colleges."
+  },
+  {
+    "question": "Are there any student clubs or organizations at JNTUH?",
+    "answer": "Yes, JNTUH has various student clubs and organizations that focus on technical skills, cultural activities, social welfare, and sports. Students can join clubs like the IEEE, NSS (National Service Scheme), cultural club, and others to enhance their skills and contribute to the campus community."
+  },
+  {
+    "question": "How do I get updates about events and announcements at JNTUH?",
+    "answer": "Students can stay updated about campus events and announcements through the official JNTUH website, notice boards, and social media accounts. The university also sends notifications and updates via email or the student portal to ensure that students are informed about upcoming events, exams, and deadlines."
+  },
+  {
+    "question": "Is there a dress code at JNTUH?",
+    "answer": "JNTUH does not have a strict dress code, but students are expected to dress in a modest and professional manner, especially during formal events, exams, and classroom sessions. The university encourages students to follow a dress code that reflects respect for the institution and their peers."
+  },
+  {
+    "question": "Can I attend online classes at JNTUH?",
+    "answer": "Yes, JNTUH provides the option for online classes, especially during situations like the COVID-19 pandemic. Students can attend live or recorded lectures through the online learning platforms provided by the university. Make sure to check the university’s notifications for details on how to access these classes."
+  }
+
+
 ]
 
 faq_questions = [item['question'] for item in faq_data]

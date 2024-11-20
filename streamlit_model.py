@@ -858,9 +858,95 @@ faq_data = [
   {
     "question": "Can I attend online classes at JNTUH?",
     "answer": "Yes, JNTUH provides the option for online classes, especially during situations like the COVID-19 pandemic. Students can attend live or recorded lectures through the online learning platforms provided by the university. Make sure to check the university’s notifications for details on how to access these classes."
+  },
+  {
+    "question": "What are the available degree programs at JNTUH?",
+    "answer": "JNTUH offers a wide range of undergraduate and postgraduate degree programs in fields like Engineering, Technology, Management, and Science. Undergraduate programs include B.Tech, B.Pharmacy, and B.Arch. Postgraduate programs include M.Tech, MBA, M.Pharmacy, and various MSc courses."
+  },
+  {
+    "question": "How can I apply for a degree program at JNTUH?",
+    "answer": "To apply for degree programs at JNTUH, you must go through the Telangana State Engineering, Agriculture and Medical Common Entrance Test (TS EAMCET) for undergraduate programs or the Graduate Aptitude Test in Engineering (GATE) for postgraduate programs. The application process involves filling out an online form and submitting the necessary documents as per the admission guidelines."
+  },
+  {
+    "question": "What is the admission process for international students at JNTUH?",
+    "answer": "International students can apply for undergraduate or postgraduate programs at JNTUH through the university’s dedicated International Relations Office. The process involves submitting academic transcripts, English proficiency test scores (like TOEFL/IELTS), passport, and visa documents. You will also need to meet the specific eligibility criteria based on the program."
+  },
+  {
+    "question": "What are the research opportunities at JNTUH?",
+    "answer": "JNTUH encourages students and faculty to participate in research activities across various fields like engineering, technology, and management. The university has multiple research centers focused on advanced topics like robotics, AI, renewable energy, and nanotechnology. Students can apply for research assistantships or engage in research projects under faculty guidance."
+  },
+  {
+    "question": "What is the student exchange program at JNTUH?",
+    "answer": "JNTUH offers a student exchange program in collaboration with several international universities. The program allows students to study abroad for one or two semesters while earning credits towards their degree. This program helps students gain exposure to different cultures, learning environments, and research opportunities."
+  },
+  {
+    "question": "How is the faculty at JNTUH?",
+    "answer": "JNTUH has a highly qualified faculty with professors holding advanced degrees from reputed universities. The faculty is involved in teaching, research, and industry collaborations. Many professors have extensive industry experience and contribute to the university’s academic and research initiatives."
+  },
+  {
+    "question": "What are the accommodation options for students at JNTUH?",
+    "answer": "JNTUH provides hostel accommodation for both male and female students. Hostels offer basic amenities such as Wi-Fi, water supply, and mess facilities. There are also provisions for students from various socio-economic backgrounds, including special hostels for economically disadvantaged students."
+  },
+  {
+    "question": "How can I apply for scholarships at JNTUH?",
+    "answer": "Students at JNTUH can apply for various scholarships, such as merit-based scholarships, government scholarships, and financial assistance for economically weaker sections. Applications are usually submitted online through the student portal, and students must meet the eligibility criteria set by the university or government agencies."
+  },
+  {
+    "question": "Does JNTUH offer internships for students?",
+    "answer": "Yes, JNTUH has a dedicated placement and internship cell that helps students secure internships with top companies in various sectors like software, manufacturing, research, and more. The university partners with several national and international companies to provide students with valuable industry exposure."
+  },
+  {
+    "question": "What are the different extracurricular activities at JNTUH?",
+    "answer": "JNTUH offers a variety of extracurricular activities, including cultural events, technical workshops, sports competitions, and community service through clubs like NSS (National Service Scheme). Students can participate in annual festivals, technical fests, music and dance events, and other recreational activities."
+  },
+  {
+    "question": "How do I register for exams at JNTUH?",
+    "answer": "Exam registration at JNTUH is done through the online exam portal. Students must log in using their credentials and select the courses they wish to register for. It is essential to complete the registration before the deadline and pay the applicable exam fees."
+  },
+  {
+    "question": "What is the grading system at JNTUH?",
+    "answer": "JNTUH follows a credit-based grading system where each course is assigned a certain number of credits. Students are evaluated based on their performance in exams, assignments, and projects. Grades are given as letters (A, B, C, etc.), and the grade points are calculated accordingly to determine the GPA (Grade Point Average)."
+  },
+  {
+    "question": "Are there any clubs or societies for technical skills at JNTUH?",
+    "answer": "Yes, JNTUH has several technical clubs like IEEE, Robotics Club, and the Entrepreneurship Development Cell (EDC) which focus on technical skills development. These clubs organize workshops, hackathons, and projects to help students improve their practical knowledge in areas like robotics, coding, and electronics."
+  },
+  {
+    "question": "Can I change my branch at JNTUH after the first year?",
+    "answer": "JNTUH generally does not allow students to change their branch after the first year, except in very rare cases and under special circumstances. Students need to meet specific criteria, such as academic performance and the availability of seats in the desired branch. It is best to consult the university’s academic office for more details."
+  },
+  {
+    "question": "How do I get a bonafide certificate at JNTUH?",
+    "answer": "A bonafide certificate can be requested through the student portal or directly from the respective department at JNTUH. You need to fill out an application form and provide your student ID and other details. The certificate is usually issued for purposes like visa applications, bank loans, or government exams."
+  },
+  {
+    "question": "What are the library facilities at JNTUH?",
+    "answer": "JNTUH has a central library with a vast collection of books, journals, and e-resources across various disciplines. Students can access online research papers, digital books, and academic databases. The library also provides study rooms and reading spaces, along with inter-library loan services."
+  },
+  {
+    "question": "What is the procedure for applying for revaluation at JNTUH?",
+    "answer": "To apply for revaluation at JNTUH, students must submit an application online through the official exam portal within the specified period after results are declared. A fee is charged for revaluation, and the application should be accompanied by the necessary payment receipt and other required details."
+  },
+  {
+    "question": "Does JNTUH have any student support services?",
+    "answer": "Yes, JNTUH has a student support system to help with academic, emotional, and personal issues. The university offers counseling services, career guidance, mentorship programs, and grievance redressal mechanisms to support students throughout their academic journey."
+  },
+  {
+    "question": "What is the attendance requirement at JNTUH?",
+    "answer": "JNTUH requires students to maintain a minimum attendance of 75% in each subject to be eligible to sit for exams. If a student’s attendance falls below this threshold, they may not be allowed to appear for the exams, and they may have to repeat the semester or subject."
+  },
+  {
+    "question": "Are there any collaborations between JNTUH and industries?",
+    "answer": "Yes, JNTUH has numerous collaborations with industries, both national and international, for research, development, and internships. The university regularly organizes industry-academia interactions, guest lectures, and seminars with experts from various sectors."
+  },
+  {
+    "question": "Can I take a leave of absence from JNTUH?",
+    "answer": "Yes, students can apply for a leave of absence for medical or personal reasons. However, the application needs to be supported by valid documentation, such as a medical certificate. Students must follow the proper procedure and inform the respective department or academic office."
+  },
+  {
+    "question": "What are the facilities for students with disabilities at JNTUH?",
+    "answer": "JNTUH is committed to providing facilities for students with disabilities. These include accessible classrooms, ramps, special exam arrangements, and additional support for academic and personal needs. The university ensures that students with disabilities have equal opportunities for learning and development."
   }
-
-
 ]
 
 faq_questions = [item['question'] for item in faq_data]

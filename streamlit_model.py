@@ -32,9 +32,9 @@ def run_app():
     st.write("Hello! I'm your FAQ chatbot. Ask me anything about JNTUH services.")
 
     user_input = st.text_input("You:", "")
-    
+    button = st.button("Ask!")
 
-    if user_input or st.button("Ask!"):
+    if user_input or button:
         question, answer = get_best_faq_answer(user_input)
         st.write(f"I found a similar question: '{question}'")
         st.write(f"Answer: {answer}")

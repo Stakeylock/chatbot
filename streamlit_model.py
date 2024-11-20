@@ -946,7 +946,297 @@ faq_data = [
   {
     "question": "What are the facilities for students with disabilities at JNTUH?",
     "answer": "JNTUH is committed to providing facilities for students with disabilities. These include accessible classrooms, ramps, special exam arrangements, and additional support for academic and personal needs. The university ensures that students with disabilities have equal opportunities for learning and development."
-  }
+  },
+
+    {
+        "question": "What are the canteen services available at JNTUH?",
+        "answer": "JNTUH provides several canteens and food courts on campus that serve a variety of meals, snacks, and beverages. These canteens are open throughout the day, offering affordable and nutritious food options for students and staff. The main canteen is located near the Academic Block, and there are smaller canteens near hostel areas."
+    },
+    {
+        "question": "What types of food are served in the JNTUH canteens?",
+        "answer": "The JNTUH canteens offer a range of food options, including South Indian dishes, North Indian meals, fast food, snacks, and beverages. They cater to vegetarian and non-vegetarian diets. Breakfast, lunch, and dinner options are available, with a focus on providing balanced meals."
+    },
+    {
+        "question": "How is the hostel food at JNTUH?",
+        "answer": "The hostel food at JNTUH is designed to meet the dietary needs of students. The food is prepared with a focus on nutrition and taste. There are separate mess facilities for boys and girls, with vegetarian and non-vegetarian options available. Feedback is regularly taken from students to improve food quality."
+    },
+    {
+        "question": "What is the fee structure for hostels at JNTUH?",
+        "answer": "The hostel fee at JNTUH varies depending on the type of accommodation and the hostel. The basic fee structure includes room rent, mess charges, and other amenities. The approximate fee for a shared room is around ₹20,000 to ₹30,000 per semester, with additional charges for food and utilities. Exact fees can be obtained from the hostel office."
+    },
+    {
+        "question": "What are the different departments at JNTUH?",
+        "answer": "JNTUH offers numerous departments, including Computer Science and Engineering (CSE), Electronics and Communication Engineering (ECE), Electrical and Electronics Engineering (EEE), Biotechnology, Chemical Engineering, Mechanical Engineering, Civil Engineering, Cyber Security, GeoInformatics, and Metallurgy."
+    },
+    {
+        "question": "What programs are offered under the CSE department at JNTUH?",
+        "answer": "The Computer Science and Engineering (CSE) department at JNTUH offers undergraduate (B.Tech) and postgraduate (M.Tech) programs. The department focuses on the development of software, hardware, and advanced computing technologies, and includes courses in AI, machine learning, data science, and cybersecurity."
+    },
+    {
+        "question": "What programs are offered under the ECE department at JNTUH?",
+        "answer": "The Electronics and Communication Engineering (ECE) department offers both B.Tech and M.Tech programs. The department covers a wide range of topics in electronics, communication systems, signal processing, and embedded systems. It prepares students for careers in telecommunications, electronics manufacturing, and system design."
+    },
+    {
+        "question": "What programs are offered under the EEE department at JNTUH?",
+        "answer": "The Electrical and Electronics Engineering (EEE) department at JNTUH offers B.Tech and M.Tech programs. The department focuses on electrical systems, power generation, electrical machines, control systems, and energy management. Students are trained to work in industries related to power, automation, and energy systems."
+    },
+    {
+        "question": "What programs are offered under the BioTech department at JNTUH?",
+        "answer": "The Biotechnology department at JNTUH offers undergraduate (B.Tech) and postgraduate (M.Tech) programs. The department focuses on the application of biological sciences to the development of technology, particularly in areas like genetic engineering, bioinformatics, pharmaceuticals, and environmental biotechnology."
+    },
+    {
+        "question": "What programs are offered under the Chemical Engineering department at JNTUH?",
+        "answer": "The Chemical Engineering department at JNTUH offers B.Tech and M.Tech programs. It covers topics related to the design, operation, and optimization of chemical processes. Students learn about process engineering, reaction engineering, thermodynamics, and environmental engineering."
+    },
+    {
+        "question": "What programs are offered under the Mechanical Engineering department at JNTUH?",
+        "answer": "The Mechanical Engineering department offers B.Tech and M.Tech programs. The department covers areas such as thermodynamics, mechanics, fluid mechanics, manufacturing, robotics, and material science. The program prepares students for careers in industries like automotive, aerospace, and manufacturing."
+    },
+    {
+        "question": "What programs are offered under the Civil Engineering department at JNTUH?",
+        "answer": "The Civil Engineering department at JNTUH offers B.Tech and M.Tech programs. The department focuses on the design, construction, and maintenance of infrastructure such as roads, bridges, buildings, and water supply systems. Students gain practical knowledge in areas like structural engineering, geotechnical engineering, and transportation engineering."
+    },
+    {
+        "question": "What programs are offered under the Cyber Security department at JNTUH?",
+        "answer": "The Cyber Security department at JNTUH offers specialized programs in cybersecurity. Students learn about ethical hacking, network security, cryptography, digital forensics, and cyber laws. The programs are designed to equip students with the skills necessary to protect information and systems from cyber threats."
+    },
+    {
+        "question": "What programs are offered under the GeoInformatics department at JNTUH?",
+        "answer": "The GeoInformatics department at JNTUH offers B.Tech and M.Tech programs focused on the use of geographical data, GIS (Geographical Information Systems), remote sensing, and spatial analysis. The programs prepare students for careers in land surveying, urban planning, environmental monitoring, and disaster management."
+    },
+    {
+        "question": "What programs are offered under the Metallurgy department at JNTUH?",
+        "answer": "The Metallurgy department at JNTUH offers B.Tech and M.Tech programs that focus on the study of metals and alloys, their properties, manufacturing processes, and material science. The department prepares students for careers in the steel industry, aerospace, automotive sectors, and research in material science."
+    },
+    {
+        "question": "What kind of events are organized at JNTUH?",
+        "answer": "JNTUH organizes a variety of events including technical fests, cultural festivals, workshops, seminars, sports events, and hackathons. The university hosts annual events such as 'Avishkar' (the technical fest) and 'Udbhav' (the cultural fest), where students participate in competitions and showcase their talents."
+    },
+    {
+        "question": "What is the JN Auditorium at JNTUH used for?",
+        "answer": "The JN Auditorium at JNTUH is a large, well-equipped auditorium used for various events such as conferences, guest lectures, seminars, cultural programs, and workshops. It can accommodate a large audience and has modern sound and lighting systems to support diverse activities."
+    },
+    {
+        "question": "Where is JNTUH located?",
+        "answer": "Jawaharlal Nehru Technological University Hyderabad (JNTUH) is located at Kukatpally, Hyderabad, Telangana, India. The full address is: Jawaharlal Nehru Technological University Hyderabad, Kukatpally, Hyderabad, Telangana, India, 500085."
+    },
+    {
+        "question": "What is the infrastructure like at JNTUH?",
+        "answer": "JNTUH has a state-of-the-art infrastructure with modern classrooms, laboratories, research centers, hostels, sports facilities, and auditoriums. The campus is well-maintained with Wi-Fi connectivity and provides a conducive environment for both academic and extracurricular activities."
+    },
+    {
+        "question": "How can I access online course materials at JNTUH?",
+        "answer": "Students at JNTUH can access course materials, lecture notes, e-books, and other resources through the Learning Management System (LMS) available on the university’s online portal. This platform provides a wide range of learning resources and tools for all programs and departments."
+    },
+    {
+        "question": "Are there any scholarship programs available at JNTUH?",
+        "answer": "Yes, JNTUH offers various scholarship programs for eligible students, including merit-based scholarships, SC/ST scholarships, and financial aid for economically weaker sections. Students can apply for these scholarships through the university’s online student services portal."
+    },
+    {
+        "question": "What sports facilities are available at JNTUH?",
+        "answer": "JNTUH provides excellent sports facilities for both indoor and outdoor sports, including a gym, swimming pool, athletic track, basketball, football, cricket, tennis courts, and more. The sports complex is available for students, staff, and alumni, promoting a healthy lifestyle through sports activities."
+    },
+    {
+        "question": "Does JNTUH offer any internship or placement opportunities?",
+        "answer": "Yes, JNTUH has a dedicated Training and Placement Cell that helps students secure internship opportunities during their course, as well as job placements after graduation. Many reputed companies visit the campus for recruitment in various domains including IT, engineering, finance, and research."
+    },
+    {
+        "question": "What is the library like at JNTUH?",
+        "answer": "The JNTUH Central Library is well-equipped with a large collection of books, journals, e-resources, and digital databases. It offers a peaceful environment for study and research, with facilities like digital library access, reading rooms, Wi-Fi connectivity, and expert support for referencing materials."
+    },
+    {
+        "question": "What safety measures are in place at JNTUH campus?",
+        "answer": "JNTUH campus is equipped with comprehensive safety measures, including 24/7 security personnel, surveillance cameras, first-aid facilities, fire extinguishers, and emergency response teams. The safety protocols and facilities ensure a secure environment for students, staff, and visitors."
+    },
+    {
+        "question": "How is the transport facility at JNTUH?",
+        "answer": "JNTUH offers a reliable and efficient transportation facility for students and staff, with regular bus services connecting the campus to various parts of Hyderabad. The buses are operated by the university and cover major routes. This service is particularly beneficial for students living in remote areas."
+    },
+    {
+        "question": "Are there any events or workshops for skill development at JNTUH?",
+        "answer": "Yes, JNTUH regularly organizes skill development workshops, seminars, and training programs on various technical and non-technical topics. These sessions aim to enhance the skills of students in areas such as coding, project management, communication, soft skills, and research methods."
+    },
+    {
+        "question": "What counseling services are available for students at JNTUH?",
+        "answer": "JNTUH provides counseling services for students to help with academic, personal, and career-related issues. Trained professionals, including psychologists and career counselors, are available to offer support and guidance to students. These services aim to help students perform better and achieve their goals."
+    },
+    {
+        "question": "How do I apply for a transcript from JNTUH?",
+        "answer": "To obtain a transcript from JNTUH, students need to submit a transcript request form through the university’s online student services portal. There may be a nominal processing fee, and the transcript will be sent via post or electronically as required. The request should be made at least two weeks before the deadline."
+    },
+    {
+        "question": "What facilities are available for differently-abled students at JNTUH?",
+        "answer": "JNTUH is committed to providing equal opportunities for all students, including those with disabilities. The university offers ramps, elevators, specially designed software for the visually impaired, reserved seating arrangements, and other facilities to help differently-abled students access academic resources and campus facilities."
+    },
+    {
+        "question": "Are there options for part-time study at JNTUH?",
+        "answer": "JNTUH offers part-time study options for students who wish to pursue their degree while working or have other commitments. These programs include evening batches, weekend classes, and online courses. Students interested in part-time options can check the university’s official website for details."
+    },
+    {
+        "question": "Can I pursue a second degree or diploma from JNTUH?",
+        "answer": "Yes, JNTUH allows students to pursue a second degree or diploma in parallel with their primary course, provided they meet the eligibility criteria and the course requirements. Students interested in pursuing a second qualification should consult the university’s rules and guidelines."
+    },
+    {
+        "question": "What is the JNTUH academic calendar like?",
+        "answer": "The JNTUH academic calendar generally includes two semesters (Odd and Even semesters) each year, with each semester lasting around 16-18 weeks. The calendar includes important dates for exam schedules, holidays, orientation programs, and other academic activities. Students can check the academic calendar on the JNTUH official website."
+    },
+    {
+        "question": "Where can I find information about the JNTUH convocation ceremony?",
+        "answer": "The JNTUH convocation ceremony is held annually to award degrees and diplomas to graduating students. Information about the ceremony, including eligibility, registration process, venue, date, and other details, is available on the official JNTUH website."
+    },
+    {
+        "question": "How can I get in touch with the JNTUH administrative office?",
+        "answer": "The JNTUH administrative office is located at the university campus in Kukatpally, Hyderabad. You can contact them via email at info@jntuh.ac.in or by phone at +91-40-23158666. For more details, please visit the JNTUH official website."
+    },
+    {
+        "question": "What are the timings of the library at JNTUH?",
+        "answer": "The library at JNTUH is open from 9:00 AM to 8:00 PM on weekdays (Monday to Saturday) and from 10:00 AM to 5:00 PM on Sundays. The library remains closed on public holidays."
+    },
+    {
+        "question": "What kind of books and journals are available in the JNTUH library?",
+        "answer": "The JNTUH library has a vast collection of textbooks, reference books, academic journals, research papers, and electronic resources like e-books and digital databases in engineering, technology, sciences, and management disciplines. It also offers online resources like IEEE Xplore, SpringerLink, and ScienceDirect."
+    },
+    {
+        "question": "Are there any sports facilities available at JNTUH?",
+        "answer": "Yes, JNTUH has extensive sports facilities including a cricket ground, football ground, basketball courts, volleyball courts, tennis courts, indoor badminton courts, and a swimming pool. The university also has a well-equipped gym for students."
+    },
+    {
+        "question": "How does JNTUH handle student grievances?",
+        "answer": "JNTUH has a student grievance redressal system in place where students can submit their complaints or grievances online through the official university website. There are designated officers who handle issues like academic disputes, hostel accommodations, administrative problems, and other concerns."
+    },
+    {
+        "question": "What are the placement opportunities available for JNTUH students?",
+        "answer": "JNTUH has a dedicated training and placement cell that organizes recruitment drives, pre-placement training, and workshops to enhance students' employability. Many top national and multinational companies visit the campus for placements in IT, core engineering, management, and research fields. The average package for engineering students is around ₹4-6 LPA, with top companies offering higher packages."
+    },
+    {
+        "question": "How can students participate in extra-curricular activities at JNTUH?",
+        "answer": "JNTUH encourages students to participate in various extra-curricular activities such as technical clubs, cultural societies, sports teams, and innovation clubs. The university organizes annual cultural festivals like 'Udbhav' and technical fests like 'Avishkar' where students can showcase their talents in various domains like music, dance, drama, debates, coding competitions, robotics, etc."
+    },
+    {
+        "question": "What is the policy on attendance at JNTUH?",
+        "answer": "JNTUH has a strict attendance policy for all courses. A minimum of 75% attendance in each subject is mandatory to be eligible to appear for the semester-end examinations. Attendance is regularly monitored, and students who fail to maintain the required percentage are not allowed to take the exams."
+    },
+    {
+        "question": "Are there any language courses offered at JNTUH?",
+        "answer": "Yes, JNTUH offers language courses like English, German, and other foreign languages as part of the curriculum. These courses aim to improve students' communication skills, both written and spoken, and help them in their professional development."
+    },
+    {
+        "question": "What kind of research opportunities are available for students at JNTUH?",
+        "answer": "JNTUH encourages research and innovation among students and faculty members. The university has various research centers and laboratories equipped with state-of-the-art technology and infrastructure. Students can engage in research activities, publish papers, and participate in conferences and workshops organized at national and international levels."
+    },
+    {
+        "question": "How does JNTUH ensure the safety and security of students on campus?",
+        "answer": "JNTUH has a dedicated security team and CCTV surveillance system across the campus to ensure the safety and security of students, faculty, and staff. Regular patrols are conducted around hostels, academic buildings, and other areas to maintain a safe environment."
+    },
+    {
+        "question": "What initiatives are taken by JNTUH to promote sustainability and environmental awareness?",
+        "answer": "JNTUH has implemented several initiatives aimed at promoting sustainability and environmental awareness, including tree plantation drives, waste management programs, water conservation initiatives, and the use of renewable energy sources like solar panels in hostels and academic buildings. The university also encourages research and projects focused on environmental protection and sustainability."
+    },
+    {
+        "question": "What are the gym facilities like at JNTUH?",
+        "answer": "The JNTUH campus has well-equipped gym facilities with modern machines, weights, cardio equipment, and trained instructors. The gym is open to both boys and girls and operates with flexible timings throughout the day. Students can register with their student ID cards to use the gym facilities."
+    },
+    {
+        "question": "What are the hostel rules and regulations at JNTUH?",
+        "answer": "Hostel rules and regulations at JNTUH include restrictions on visitors, noise, curfew timings, cleanliness, personal hygiene, and other aspects. Students are expected to adhere to these rules to ensure a harmonious living environment. Detailed rules and guidelines are provided to students upon admission."
+    },
+    {
+        "question": "How does JNTUH support entrepreneurial activities among students?",
+        "answer": "JNTUH has an Innovation and Incubation Center that supports entrepreneurial activities among students. The center offers mentoring, networking opportunities, access to funding, industry collaboration, and resources to help students develop their ideas into viable products and services. The university also organizes workshops, hackathons, and startup competitions to encourage innovation and entrepreneurship."
+    },
+    {
+        "question": "What is the JN Auditorium's capacity at JNTUH?",
+        "answer": "The JN Auditorium at JNTUH has a seating capacity of approximately 1500 people. It is equipped with modern audio-visual systems, comfortable seating, and air conditioning, making it suitable for conferences, seminars, cultural events, workshops, and other academic and extracurricular activities."
+    },
+    {
+        "question": "What kind of research collaborations does JNTUH have with industry and other universities?",
+        "answer": "JNTUH has collaborations with various industries, research institutions, and universities both nationally and internationally. These collaborations involve joint research projects, student exchange programs, faculty exchange programs, and sponsored research. The aim is to promote academic-industry interaction and innovative research in cutting-edge technologies and engineering practices."
+    },
+    {
+        "question": "What are the safety protocols followed in laboratories at JNTUH?",
+        "answer": "JNTUH follows strict safety protocols in laboratories. This includes wearing personal protective equipment (PPE) like gloves, lab coats, safety glasses, proper storage of hazardous materials, regular safety drills, and maintenance of safety equipment like fume hoods and fire extinguishers. Students are trained on safety procedures before handling equipment and conducting experiments."
+    },
+    {
+        "question": "What are the career support services offered at JNTUH?",
+        "answer": "JNTUH offers comprehensive career support services to students. This includes counseling, resume building, interview preparation, mock interviews, industry guest lectures, workshops, and access to alumni networks. The Career Services Center helps students connect with potential employers and understand industry expectations and trends."
+    },
+    {
+        "question": "What is the process for obtaining a degree certificate at JNTUH?",
+        "answer": "To obtain a degree certificate from JNTUH, students must complete all academic requirements, including clearing their backlog subjects and paying all required fees. After that, they can apply for their degree certificate through the official website, filling out the necessary forms and paying the applicable fee. The certificate is usually issued within a few weeks after the application."
+    },
+    {
+        "question": "What is JTBI at JNTUH?",
+        "answer": "JTBI (Jawaharlal Technological Business Incubator) is an initiative by JNTUH to foster entrepreneurship and innovation among students, researchers, and young entrepreneurs. JTBI provides a platform for startups to grow by offering mentorship, funding, office space, access to laboratory facilities, and networking opportunities with industry experts. It aims to turn innovative ideas into successful businesses."
+    },
+    {
+        "question": "What services does JTBI provide for startups?",
+        "answer": "JTBI provides a range of services for startups, including mentorship from experienced entrepreneurs, access to funding and venture capital, networking with industry leaders, office space, research and development support, and collaboration with academic and corporate partners. Additionally, JTBI offers assistance with product prototyping, patenting, marketing, and business development."
+    },
+    {
+        "question": "How can students and faculty apply to join JTBI?",
+        "answer": "Students and faculty members can apply to join JTBI by submitting their startup ideas or ongoing projects through the official JTBI website. The selection process includes a review of the business idea, its feasibility, and its potential for commercialization. Selected candidates are then invited to present their ideas, after which they can be incubated by JTBI with necessary resources."
+    },
+    {
+        "question": "What is JHub at JNTUH?",
+        "answer": "JHub is a collaborative innovation center at JNTUH that connects students, faculty, researchers, and entrepreneurs. It promotes the culture of innovation and entrepreneurship within the campus by providing access to state-of-the-art infrastructure, industry collaborations, mentoring, and funding opportunities. JHub encourages the development of projects, prototypes, and startup ideas."
+    },
+    {
+        "question": "What programs are offered by JHub?",
+        "answer": "JHub offers several programs including entrepreneurship boot camps, hackathons, innovation challenges, startup incubation, workshops, networking events, and seminars. These programs are designed to encourage students and researchers to think creatively, develop their ideas, and launch their own startups. JHub also offers expert sessions from industry veterans and academic professionals."
+    },
+    {
+        "question": "How does JHub support student startups?",
+        "answer": "JHub supports student startups by providing mentoring, seed funding, office space, business development guidance, and industry collaborations. Additionally, it offers access to research facilities and prototype development labs, which help in transforming ideas into tangible products. Students are also given opportunities to pitch their ideas to investors and potential business partners."
+    },
+    {
+        "question": "Does JHub provide any assistance with funding for startups?",
+        "answer": "Yes, JHub provides assistance with securing funding for student startups. It collaborates with venture capitalists, angel investors, and government funding agencies to help students get financial support. JHub also facilitates pitching sessions and helps students prepare for investment meetings by offering mentoring and guidance on business models."
+    },
+    {
+        "question": "What is the process of joining JHub for incubation?",
+        "answer": "To join JHub for incubation, students or faculty members must submit their startup ideas or projects through the official JHub website. Once the application is reviewed and shortlisted, applicants are invited to present their projects. If selected, the incubatees are provided with infrastructure, resources, and mentoring to help develop their ideas into successful ventures."
+    },
+    {
+        "question": "What are some successful startups incubated by JTBI and JHub?",
+        "answer": "Some successful startups incubated by JTBI and JHub include ventures in fields like IoT, AI, machine learning, robotics, renewable energy, healthcare, and agricultural technology. These startups have received recognition in national and international innovation competitions, attracted investments, and are now operating successfully in the market."
+    },
+    {
+        "question": "Are there any international collaborations for innovation at JNTUH?",
+        "answer": "Yes, JNTUH has several international collaborations for innovation, research, and technology transfer. These collaborations involve universities, research institutes, and industries across the globe. JNTUH actively participates in international research projects, student exchange programs, and collaborative innovation initiatives aimed at solving global challenges."
+    },
+    {
+        "question": "How can JNTUH students get involved in innovation and entrepreneurship?",
+        "answer": "JNTUH students can get involved in innovation and entrepreneurship through programs like JHub and JTBI. They can participate in workshops, hackathons, business idea competitions, and incubation programs. Additionally, they are encouraged to take part in research projects, collaborate with industry mentors, and explore funding opportunities for their startups. The university also offers entrepreneurial development courses."
+    },
+    {
+        "question": "What is the role of JNTUH in promoting research and innovation?",
+        "answer": "JNTUH plays a key role in promoting research and innovation by providing state-of-the-art laboratories, research funding, and collaborative opportunities with industries and global academic partners. The university encourages both students and faculty to engage in research activities and offers various platforms like JHub, JTBI, and research centers to develop innovative solutions to real-world problems."
+    },
+    {
+        "question": "Does JNTUH offer any entrepreneurship courses or training?",
+        "answer": "Yes, JNTUH offers various entrepreneurship courses and training programs through its Innovation and Incubation Centers like JHub and JTBI. These courses cover topics such as business idea generation, startup financing, product development, marketing strategies, and intellectual property rights. Additionally, there are workshops and seminars conducted by successful entrepreneurs and industry experts."
+    },
+    {
+        "question": "What is the impact of JTBI on the local startup ecosystem?",
+        "answer": "JTBI has a significant impact on the local startup ecosystem by nurturing innovative ideas and helping transform them into successful businesses. It fosters an entrepreneurial mindset among students and faculty and has contributed to the growth of several successful startups that have generated employment and brought technological advancements to the region."
+    },
+    {
+        "question": "What is the role of mentorship at JHub and JTBI?",
+        "answer": "Mentorship is a critical component at JHub and JTBI. Both centers provide students and startups with access to a network of experienced mentors who guide them in areas like business planning, funding strategies, market analysis, product development, and scaling their ventures. Mentors are industry experts, successful entrepreneurs, and academic professionals who offer valuable insights to help startups succeed."
+    },
+    {
+        "question": "How can JNTUH students connect with industry professionals for mentorship?",
+        "answer": "JNTUH students can connect with industry professionals for mentorship through the various programs organized by JHub and JTBI. These include networking events, guest lectures, industry collaborations, and startup pitch events. Students can also participate in workshops and seminars conducted by experts, which provide opportunities for one-on-one mentoring sessions."
+    },
+    {
+        "question": "Where is the JNTUH campus located?",
+        "answer": "The JNTUH campus is located in Kukatpally, Hyderabad, Telangana, India. The full address is: Jawaharlal Nehru Technological University Hyderabad, Kukatpally, Hyderabad – 500085, Telangana, India."
+    },
+    {
+        "question": "Can JNTUH students work on live industry projects?",
+        "answer": "Yes, JNTUH encourages students to work on live industry projects as part of their curriculum and through various research centers, innovation programs, and internships. These projects provide practical exposure and help students gain valuable insights into the latest industry trends and practices. Industry collaborations are a significant part of the university's curriculum."
+    },
+    
 ]
 
 faq_questions = [item['question'] for item in faq_data]

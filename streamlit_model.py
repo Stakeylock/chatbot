@@ -1265,7 +1265,7 @@ def run_app():
 
     if user_input:
         question, answer = get_best_faq_answer(user_input)
-        st.write(f"Bot: I found a similar question: '{question}'")
+        st.write(f"I found a similar question: '{question}'")
         st.write(f"Answer: {answer}")
     
     if st.button("Exit"):

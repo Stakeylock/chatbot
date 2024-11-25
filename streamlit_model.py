@@ -48,6 +48,7 @@ def get_base64(bin_file):
 
 def run_app():
     set_background("jntu_logo.png")
+    st.title("")
     st.title(":violet[JNTUH FAQ Chatbot]")
     st.write(":green[Hello! I'm your FAQ chatbot. Start typing your query, and I'll show the most relevant answer.]")
 

@@ -15,32 +15,23 @@ faq_answers = [item['answer'] for item in faq_data]
 
 faq_embeddings = model.encode(faq_questions)
 
-with open("embeddings.json", "w") as f:
-    json.dump(faq_embeddings.tolist(), f)
-
-
-def get_best_faq_answer(user_question):
+def get_similar_questions(user_question, top_n=5):
     user_embedding = model.encode([user_question])
-    print(user_embedding)
-    print(faq_embeddings)
-    with open("user_embeddings.json", "w") as f:
-        json.dump(user_embedding.tolist(), f)
+    similarities = cosine_similarity(user_embedding, faq_embeddings)[0]
+    top_indices = similarities.argsort()[::-1][:top_n]
+    similar_questions = [
+        (faq_questions[idx], similarities[idx])
+        for idx in top_indices
+    ]
+    return similar_questions
 
-    similarities = cosine_similarity(user_embedding, faq_embeddings)
-
-    most_similar_idx = np.argmax(similarities)
-
-    most_similar_question = faq_questions[most_similar_idx]
-    answer = faq_answers[most_similar_idx]
-
-    return most_similar_question, answer
 def set_background(png_file):
     bin_str = get_base64(png_file)
     page_bg_img = '''
     <style>
     .stApp {
     background-image: url("data:image/png;base64,%s");
-    background-color: white;
+    background-color: black;
     background-repeat: no-repeat;
     background-size: 150px 150px;
     background-position-y:60px;
@@ -55,24 +46,40 @@ def get_base64(bin_file):
         data = f.read()
     return base64.b64encode(data).decode()
 
-
 def run_app():
-    #st.logo("jntu_logo.png", size="large", link=None)
     set_background("jntu_logo.png")
-    st.title("")
     st.title(":violet[JNTUH FAQ Chatbot]")
-    
+    st.write(":green[Hello! I'm your FAQ chatbot. Start typing your query, and I'll show the most relevant answer.]")
 
-    st.write(":green[Hello! I'm your FAQ chatbot. Ask me anything about JNTUH services.]")
+    user_input = st.text_input(":orange[Start typing your question:]", "")
+    similar_questions = []
 
-    user_input = st.text_input(":orange[You:]", "")
-    button = st.button("Ask!")
+    if user_input.strip():
+        similar_questions = get_similar_questions(user_input, top_n=5)
 
-    if user_input or button:
-        question, answer = get_best_faq_answer(user_input)
-        st.write(f":red[I found a similar question: '{question}']")
-        st.write(f":green[Answer: {answer}]")
-    
+    suggested_questions = [question for question, _ in similar_questions]
+    selected_question = st.selectbox("Suggested Questions:", options=[""] + suggested_questions, index=0)
+
+    if user_input:
+        if selected_question != "":
+            user_input = selected_question
+
+        similarities = cosine_similarity([model.encode([user_input])[0]], faq_embeddings)
+        idx = np.argmax(similarities)
+        st.write(f"Answer: {faq_answers[idx]}")
+
+    if user_input.strip() and not selected_question:
+        st.write(":green[Here are some similar questions:]")
+        for question in suggested_questions:
+            if st.button(question):
+                user_input = question
+                selected_question = question
+
+        if selected_question:
+            similarities = cosine_similarity([model.encode([user_input])[0]], faq_embeddings)
+            idx = np.argmax(similarities)
+            st.write(f"Answer: {faq_answers[idx]}")
+
     if st.button("Exit"):
         st.write("Goodbye!")
 
